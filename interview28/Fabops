@@ -1,0 +1,23 @@
+Interview1
+
+1. Write a reverse string in any language for this statement "Hello World!"
+
+2. How do you apply your provisioning configuration without applying another collaborator's work?
+
+3. How do you access your cluster?
+
+4. What is the Difference between dynamic vs local terraform blocks?
+
+5. What is the difference between local and dynamic terraform blocks?
+
+6. What Difference btwn Network and Application load balancers?
+
+7. Explain step by step Ansible passwordless configuration with ssh?
+
+8. Explain your experience with ansible and it's high level architecture 
+
+9. Explain your experience with git and GitHub including the git workflow commands?
+
+10. Explain your experience with PV, PVC, and storage classes?
+
+11. Explain your experience with Kubernetes service discovery.
