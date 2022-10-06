@@ -1,0 +1,22 @@
+Cletus: I was asked about ticketing tools like Jira or Confluence. Any demo for us?
+Cletus : I was asked if I ever used Terraform null resource. I didn’t know
+Cketin 
+(Ihuoma- Good evening Prof. How do we create a Dockerfile with a ‘/status’ endpoint, which should respond with `{"result": "success"}`
+Likewise a Terraform file(s) with a publicly accessible `/status` endpoint that responds with `{result": "success"}`?) These instructions were part of a code challenge.
+What is CI/CD solution?
+What is Service Account in K8s?
+
+Eugine----> How many K8s clusters did run I your environment
+
+Shina------how to use hashicorp to manage our cluster
+Bukola: Are we still going to have access to class28 channel?
+
+
+
+
+
+Use Python to create an application load balancer which load balances between 3 AWS EC2 Instances which are located in 3 AZs sitting in a Private VPC in a single AWS region.
+
+How do we answer, 
+1) what project are you supporting right now and what is your role in the project
+2) Tell me about your environment

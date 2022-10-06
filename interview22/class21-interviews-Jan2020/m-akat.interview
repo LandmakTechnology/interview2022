@@ -1,0 +1,225 @@
+```
+#Capital One Power Day Interview
+```
+Technical Interview 4
+Seems like you have some sort of AWS experience and developing architecture. Lets talk about different ways you can set it up and also talk to me about some designs.
+
+1)If I want to set up a Rest API and in AWS, I want it to be highly available, highly resiliant, multi region, what services will i need, what do the services do/provide, why did you choose those services?
+
+2)How does traffic get to the kubernetes?
+
+3)What are all the kinds of load balancers in AWS?
+Why will you use an ELB over an ALB?
+
+4)What is the difference between a blue green deployment over a canary deployment and why will i pick one over the other?
+
+5)How do you deploy a new stack without experiencing downtime?
+
+6)How would you actually implement a blue green deployment in AWS and ensure there is no downtime?
+
+7)You have your current application running how do you switch traffic  from the blue stack to the green stack without the customers experiencing down time and without changing your network infrastructure?
+
+8)Lets talk about databases,
+what kind of databases have you used?
+Did you use them in AWS or nOT?
+Did you use Aurora postgresql or just plain postgresql
+Did you use them with replicas or not?
+In region or out of region?
+
+9)If I am setting up this database and i want to switch traffic from the master to the replica. Tell me the steps I will need to accomplish this.
+
+10)What monitoring tools do you use for your applications, what are you monitoring? Do you have 
+
+11)CI/CD pipeline
+2)What are the phases for building a CI/CD pipeline and what are the phases?
+3)What do you mean by Maven will validate?
+4)If you were to redesign what you are using now? what will you add to it and how will you change the pipeline to be better?
+
+12)Monitoring: If I am monitoring applications in production, what are some of the things I may want to monitor and why?
+
+13)What tools will you use and how to monitor your application?
+Do you monitor these manually or have you set up some automated manner to report alerts?
+
+14) What are your primary responsibilities at your current position?
+a)What types of tickets do you resolve from Jira?
+
+15)Do you manually provision or do you build terraform scripts to use for provisioning? How to you manage changes in your architecture?
+How do you keep yourself from breaking the architecture?
+
+
+
+Interview 3- Case Interview
+
+1)Capital one just aquired a digital bank-ING direct.This bank is completely virtual has no branches, offices, etc.
+what are the business and technical benefits?
+
+2)If you wanted to cross sell the ING product to your current clients without them having to log into two seperate applications how would you accomplish that?
+
+3)What ways can you deploy this new ING stack with your already existing application?
+ 
+
+4)Analytical Question: If you have 3 inputs and any combination of the 3 inputs can either result in one of 2 possible outcomes. How many outcomes in total can you have?
+Can you code how you will get to your answer in javascript?
+
+
+Interview 2-Behavioral Interview
+
+1)Tell me about a difficult task from your past experience that you were able to accomplish and how you accomplished the task?
+
+Follow up Questions:
+1) Did you single handedly complete the task or did you work with a team?
+2)If you worked with a team, how did you get the team members to participate?
+3)How did you know your deliverable was accurate?
+4)What steps did you take to ensure you made the correct recommendations?
+5)How did you communicate your deliverables to your target audience?
+6)Why did you choose the combination of tools that you chose?
+
+2)Tell me about a time when you had to change your work plan to accomodate a new client requirement at work?
+
+3)If you had a very difficult manager, would it affect your output?
+How will you go about working with this person in a way that will not impede team productivity?
+
+
+
+Interview 1 - Technical and Job fit Interview
+
+1) What resources will you use and how to stand up an application with the following requirements:
+
+- Has 7 scripts, 4 of them share the same libraries with 3(Pandas and Numpy). The 3 have an extra library (SciKit learn).
+-You have access to S3 bucket
+- The analysts will need to be able to pull back this data 3-5 minutes from write.The storage has no maximum capacity.
+
+2)How will you make the script to display the result every 3-5 minutes?Will somone have to be there to manually to run it every 3 -5 minutes?
+
+2a)Where will your cronjob be set up?
+
+- 
+4)What IDE do you use?
+4a)What platform does a Jupiter notebook sit on?How can you connect from a jupiter notebook to your cluster?
+
+
+5)Write a python code to iterate everyword in the string and to count how any times each work apppears in that string.
+
+6) How does a Master node speak to a database?
+
+7)How will you use Terraform to provision Jenkins?
+What type of terrafomr files will you create?
+What resources will you use in your provisioning?
+What kind of region will you pick and why?
+What is a VPC and what key elements do you need for your code to talk to the AWS Api?
+
+8)How many different ways can you build terraform files?(1 main .tf file or many .fr file)Which will you use and why?
+8a) Which is better?
+
+
+Interview 1:With Software Developer
+
+1)Tell me about yourself?
+
+2)Can you describe the underlying framework? How many web applications are you supporting?
+
+3)Are they spring.javabased?Do they have a frontend? How does it translate to the github repository?
+
+4)So you mentioned Terraform and Ansible, can you mention what the difference between the two is in the context of how your team uses it?
+
+5)Have you set up or written any ansible or Terraform scripts yourself?
+
+6)Can you describe what resources are in a Terraform script?
+
+5)Have you maintained or managed a Jenkins settup? Written groovy scripts and added plugins yourself?I see bash and Python.
+
+6)Do you maintain the server installation, if confluence were to crash
+
+7)Are you guys running EC2 instances, what happens if they crash?
+
+8)What Brings you to this organisation?
+
+9)I am trying to guage your stacks on if you are able to get your hands dirty: Do you know how the structures are configured, what the roles and permissions are across the structure, what kind of containerised platform is being run? Just being able to back up the leadership component with jumping into the trenches and doing the actual work with the team if it needs to be done?
+
+10)You mentioned python, can you describe an instance of a python script that you wrote even if it is a demo -walk me through it?
+
+11)Could you walk me through in your head the resources of getting the boto3 client, passing in the keys, pulling the resource ID -how involved where you in the development of it?
+
+Questions I asked:
+   -How is your team distributed?
+   -If you decided to move forward, what will be your expectations of me in the first 30-60 and even 90 days?
+
+
+Interview with Architect Manager
+Interview2:
+
+1)Tell me about yourself
+
+2)Where do you want to see yourself and your career directions?
+
+3)Will you like to be in the code or in the project management side or just in the  front end?
+
+4)Can you tell me a little bit about what you have done with Docker, with Kubernetes and EKS?
+
+5)If you have to choose between EKS and kubernetes on an EC2 which one will you pick and why? If it is not a case of budget, which will you pick and why?
+
+6)What kind of requirements will make you choose a particular tool versus another?
+
+7)Groovy Scripting- Have you written groovy scripts, how have you used infrastructure as code and plugins in your project?
+
+8)Where do you think you will like to work:-Maintainance, Building from scratch and modernize - What will you prefer doing?
+
+9)What kind of experience do you have in GCP and Azure ?
+
+10)Why are you leaving your current position and why are you looking to move?
+
+
+Advocate for yourself. It’s important to find supporters and mentors to help you navigate your path, but you need to take the lead. Also, tell your story. Let people know what you do and be able to demonstrate and showcase the things you say you’ve done. 
+When I first started , 
+I learned that there are five stories you should be ready to share when someone asks you: 
+1)how you lead, how you’ve ended up in your current role, 
+2)how you shifted your perspective on an issue, 
+3)how you’ve selflessly acted to help your community, and 
+4)what you’ve learned from your greatest misstep. 
+
+Each of these narratives explores an important side of you. When you share them with the right people and have the mentorship supports in place, that’s when big things happen.
+
+
+Interview 3
+
+1)Explain what this command is doing:
+
+docker run -d -p 8000:8080 -v /app/code:/src/code python:3.6
+
+a) What does -d refer to?
+b)What is -v?
+c)What does 8000:8080 refer to?
+d)what does the last part of the code refer to?
+
+
+2) What is a helm Chart?
+Explain what a Helm chart will do?
+
+3)What kinds of Tools have you normally use in analytics and give an example of how you will use them?
+
+4)What have you done with Jenkins?
+5)Have you actually writen a groovy script?
+6)What configuration tool will you use to configure a pipeline? Walk me through what you will configure and how you will do it?
+
+Interview 4
+
+1)Talk to me about all the services you have used in AWS and how you have used them
+2)Say you have a client that needs you to build and deploy a java for Kubernetes application and want to deploy it.What mix of tools will you recommend and how will you use them.Can you do a presentation?
+
+3)Tell me the differences in these and what they are best used for:
+  1)AWS,AZURE and GCP
+  2) Cloud Formation and Harshicorp Terraform
+  3)MongoDB and PostgreSQL
+  4)K8s vs Openshift
+  5)What do you have to do manage manually in Terraform that you do not have to manage in cloud formation
+  6)What kinds of applications will be best to deploy on AWS  Vs GCP
+
+4)Where do you see yourself wanting to work with your headphones on burried in the code or on the design and build side?
+
+5)Why did you apply to this organisation?
+
+6)Have you used Terraform and Ansible together? How did you integrate them?
+
+7)How how would you expose your clusters to end users?
+
+8)If you have a deployment and Service script in K8s what are each of them meant to accomplish?

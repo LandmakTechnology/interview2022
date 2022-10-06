@@ -1,0 +1,24 @@
+Have you used helm?
+Have you used eks?
+What do you use for CICD?
+How do you manage and scale infrastructure using eks
+Have you used Ansible
+What is your Experience with application monitoring tools like DataDog and NewRelic
+how do you build and maintain CI/CD pipelines.
+Are you willing to learn PHP
+We are migrating from ECS to EKS.
+We use AWS CodePipeline
+We use git to store our artifacts.
+
+What would I do if I am working on two files but want the outputs in one file.
+I have two legacy applications that I want to deploy to K8s. How would you set up the infrastructure?
+I am searching for a particular application.  How do I find them in Linux?
+How do you deploy into different environments using a pipeline?
+How do you setup with security in mind?
+How would work with another devops engineer who wants to learn and play with the environment you set up?
+Tell me about a time when the project you worked on failed.  
+how would you design your environment for the very first version of your application.  
+
+What automation tools have you used?
+step by step, Walk me through creating your Jenkins cluster.
+Walk me through your EKS pipeline in Jenkins.

@@ -1,0 +1,59 @@
+Git: 
+  1. How do you create a PR
+    .ignore
+   Maven integration with Jenkins
+   what happens when your Jenkins server fails
+   Write a simple Groovy script
+   Write a docker file
+   Simple python script
+   YAML vs JSON
+   How do you define Devops?
+   What kind of triggers have you set
+   write a bar shell scriptt using jq
+   docker compose file
+   difference between scrum and agile methodology
+   Wha t is ansible roles
+   Create an Ansible playbook to 
+   upgrade all the prod and staging systems.
+  where do store your helm charts ?
+
+
+1. no of Environments
+2. how are build triggered 
+3. ci/cd pipeline  
+4. ingress and service    
+5. dora  =  
+6. maintime recovery  
+7. probes 
+8. How do you deploy at Dominion    
+9. Kubernetes  --- 
+10. app.com   ---> k8s 
+11.  
+
+where do store your helm charts ?
+
+how do you manage secrets in k8s
+
+1. How does a user access your application in the cluster? 
+
+2. What type of ingress do you use in your environment? How do you deploy an ingress in your cluster? 
+
+3. What is the difference between services and how do you use them? 
+
+4. What type of object do you use to deploy your applications and why? 
+
+5. What is DeamonSet and do you use it in your cluster? 
+
+6. What objects do you use to maintain high availability? 
+
+7. What is your ci/ce pipeline? 
+
+8. What is the structure of a playbook? 
+
+9. How do you use ansible to deploy? 
+
+10. What is the purpose of terraform init? 
+
+1. How do you minimise costs in your projects as a DevOps Engineer?
+2. How do you prioritise tickets assigned to you?
+3. What is the most challenging project you have worked on?

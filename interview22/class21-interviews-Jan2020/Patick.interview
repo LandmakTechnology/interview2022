@@ -1,0 +1,11 @@
+How was your role ase SRE
+What is the differences betwwen SRE and DEVOPS
+Where you on the DEV side of things or the automation. What did you do regarding monitoring
+How did you work with prometheus
+How did you monitor your cluster. assume you had multiple clusters with multiple pods running.
+    What Did you ever monitor or observe as a problem and how did you solve it. (using prometheus)
+How was the communication between the clusters and the pods. how did prometheus monitor this with respect to end users.
+In monitoring using prometheus what did you observe in the cluster.
+What were the monitoring parameters and how did you observe them
+What is the difference between monitoring and application observation
+Have you ever had a problem you observed on prometheuse. How did you solve the problem

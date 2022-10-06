@@ -1,0 +1,81 @@
+
+# Interview Questions and Answers   :
+==================================
+1. It seems you're very good in powershell, terraform, aws, k8s, python.
+   Which kind of work will you like to do?  :
+   I love to work in a challenging env, with growth prospect
+   Where I can leverage my DevOps automation skills and 
+   Collaborate with my team to deliver quality software/apps
+   Setting-up HA, HR & HS, Scalable architecture
+
+2. Which kind of work are you doing now?
+   I've supported java-applications, .net-applications, for a FinTech client.
+   Setting-up CICD pipelines with Jenkins, CloudBees and AWS CodePipeline, 
+    Using jenkins to integrate Git, Maven, SonarQube, Tomcat/JBoss, Docker, k8s, 
+   Configuring Managed(EKS) and self-managed (KOPS, kubeadm) k8s
+   Using docker for containerisation and k8s for orchestration.
+   Deploying scalable, secure and HA java and .net applications   
+   Using Prometheus/Grafana and New Relic for APM=Application performance Monitoring
+   Using ELK/EFK (LogStash, File-beat and Kibana) for log mgt
+   Using Jira intergrated for bug tracking
+   I have written ansible-playbooks to automate configurations mgt
+   some of these ansible-playbooks automate patching, user and file mgt, 
+   Tickets are escalated to me for ansible-playbooks related issues.
+   Our Resources are created in AWS Cloud
+
+3. Do you use ansible tower?
+   So far we use Ansible-CLI. 
+   However I was task recently to do a study on Ansible tower.
+   I will be doing a presentation to my team on ansible tower in the days ahead.
+
+4. Which kind of planning ceremonies do you use? Scrum or kanban?
+   Do you have like daily stand-ups, etc?  :
+   We work in an agile Agile Environment;
+        Having 15 mins daily scrum/Stand-up meetings;
+           what we did yesturday and I will do today
+           are they any blockers?
+           Scrum Master will work with parties to resolve blockers
+        Every 2 weeks, sprint planning meetings:
+           We define tasks to start in the sprint
+           Time/resources required
+           
+        Retrospective meeting  :
+            what when well and/or wrong in the sprint
+            what we learn in the spring
+    we also confluence for documentation
+6. How do you stay on-top of new technologies?
+   By studying from; Linux Academy, Linkedin, Technical blogs, vendors site, etc.
+
+-7. Explain your experinced in AWS services?
+   Creating EC2 Instanaces, assigning them to ASG and pointing them to ELB
+   Using EBS for root volumes, EFS for file storage and S3 for object storage 
+   IAM, Single-Sign-On, NACLs, RDS, ROUTE53, 
+   Using terraform to provision VPCs, EC2, EKS, ECS, etc,
+   Dev.CodeStar, Cloud9, CodeCommit, CodeBuild, jira integration,  
+   75   
+8. How about the security side with; PCI
+   SG, ansible-Vault, NACLs, private subnets,  
+
+9. Have you let a team before or are you leading a team now?
+   Yes, I'm leading a team  of 13
+    6 Developers
+    2 DevOps Engineers
+    1 Automation Tester
+    2 Cyber_Security
+    2. System Admins
+
+10. We are a .net shop
+    We use Hashicorp, k8s, QA, Test Engineering, SRE
+    Software Engineering chef, puppet
+    GitHub for repository everything is done via pull requests  
+
+11. What skill-sets are you searching for and how do I fit in the picture?
+
+12. You spoke about k8s, do you use helms integration with k8s as well?
+    k8s is not in production now. 
+    k8s is in our pilot project
+    we use more of hashicorp tools, 
+
+13. Assuming I'm hired, what will be excted from me initially?
+
+14. How soon do I expect to hear from you? Very soon

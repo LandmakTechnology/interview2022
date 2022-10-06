@@ -1,0 +1,37 @@
+They will Introduce themselves and their company :
+  Do you have any question:
+    How many envirnoments are you supporting in your team?
+          Development
+          Stage / test / uat / QA  // pre-production
+          production
+    Are you using any IaC tool to for provisioning Like terraform?
+    How do you manage you code?
+       All commit in the stage and master branches goes through pull requests.
+       We encourage git rebase over git merge
+       Developers are only granted required access in Project repo.
+       master ..>  test.txt = cm1--> dev branch --> dcm2, dcm3, dcm4 --> master  ()
+       dev branch 
+    are using any VCS like git github and how is access managed for developers?   
+            
+    How many people are in this  team and what will be required from me if i'm hired
+
+Our ideal candidate has:
+• Bachelor's degree with at least 5 years of work experience
+• Experience working with AWS
+• Working knowledge of MongoDB or similar NoSQL
+            
+• Experience with client-side MVC Frameworks (such as AngularJS, Vue-js, React) is a plus
+• Experience with Atlassian products (JIRA, Confluence, etc.)
+• Possess proven troubleshooting skills:
+       Builds for Jenkins job were failing
+
+• Work effectively as a member within an agile Scrum team.
+• Experience with Git repositories
+• Have a good understanding of “DevOps” culture
+• Be curious, detail oriented, and analytical, with a proven ability to learn quickly
+• Be customer-focused, team-oriented, and motivated, taking ownership of assigned tasks
+• Have proven ability to self-manage, as well as manage interdisciplinary relationships
+• Have proven verbal and written communication skills
+• Experience helping business units understand the costs of ongoing operations and services, and factoring these costs into developing a lean, performant architecture.
+• Comfortable working in a fast paced environment
+• Demonstrates passion for problem solving and outside-the-box thinking

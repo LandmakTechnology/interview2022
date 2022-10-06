@@ -1,0 +1,18 @@
+What are the security tools in AWS
+walk me through the security process in aws
+How did you configure tls
+walk me through the provisioning process of security in WAS
+Would you put you db in the private subnet or public or both
+Why
+Somebody who is given an admin right how can you limit his access
+scp security
+Nacl and SG. which is state and which is stateless
+How would you configure DNS route 53 and load balancers for end users to access
+How did you use ingress
+cite a situation of difficulties you had in a kubernetes cluster and how you handled it
+How good are you in ansible
+How many cluster
+How many containers were you monitoring per second
+What database did you use
+How did you run your k8s in GCP.
+What are you coding and Telecomunication background

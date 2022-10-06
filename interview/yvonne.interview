@@ -1,0 +1,36 @@
+interview1.
+Yvonne Afena, [19.11.20 23:20]
+How long have you been looking for another opportunity?
+Has all your previous roles been in AWS?
+How long have you been doing DevOps engineering?
+Do you have any other roles you have interviewed for or are interviewing for and how far in the process are you?
+Are you available for an immediate start?
+Will you be able to support a short notice call if needed?
+What is your W2 rate and are you flexible?
+What does Landmark Technologies do?
+How long have officially been a DevOps engineer?
+Lets go through your resume for details about every role
+How long would you say you say you've been working with AWS?
+Tell me some of the AWS service packages you've worked with
+Have you used ELB?
+Tell me about your experience with lamdba
+Tell me your experience with Docker and K8S
+What do you use for monitoring tools?
+Tell me your experience with IaaC have you used CloudFormation and Terraform?
+
+
+Interview2
+Tell us about your programming background
+2.  How have you used paragination in Boto 3 to specifically get info from Amazon
+3.  How will call a terraform module from a main function
+4.  How do you link a module EC2 instance to the main function
+5.  Tell me about mariabd and mongodb what info do they store and what are the difference
+6.  What is your experience with Lambda
+7.  How do you call a module in Terraform
+8.  If connection keeps timing out, where do you check for the issue
+9.  How is your data sent to New Relic , Prometheus/Grafana
+10.  What do you use as your main dashboard using Prometheus and Grafana? Do you do monitoring on each node?
+11.  I am on an instance and I am running an AWS cp command to copy something from one bucket, tell me the different place that I have to set permissions to do this. Where do I set permissions to copy successfully?
+12.  Say I have fox.com and x.com, how do I link both?
+13.  How would you export a set of 20 mongodb tables to excel format and send to S3 bucket? Please describe the process
+14.  Do you have experience with search engine?

@@ -1,0 +1,26 @@
+# A/ First Interview
+
+1. Tell me about your current project.
+
+2. What happens when you type www.google.com?
+
+3. How to you trouble shoot a service which fails to start? 
+Say I type www.google.com and it fails to start, how will you trouble shoot it?
+
+4. How are containers different from virtual machines?
+
+5. How do you ensure continuous delivery in a Jenkins pipeline?
+
+6. How do containers in your k8s cluster communicate?
+
+7. What is the differeance between TCP and UDP?
+
+8. What is difference between Terraform and ansible?
+
+9. What is your expereince with EFK, and the difference between EFK and ELK?
+
+10. What is your experience with aws ECS?
+
+
+
+
