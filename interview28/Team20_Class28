@@ -1,1 +1,2 @@
-
+Use Python to create an application load balancer which load balances between 3 AWS EC2 Instances which are located in 3 AZs 
+sitting in a Private VPC in a single AWS region.
