@@ -1,0 +1,15 @@
+ How many Dockerfiles can you have for your appications?
+ How do integrate other tools like kubernetes or ansible to deploy your application?
+ How many applications does your team manage?
+ How do you deploy your database and how many replicas of db application do you deploy in prod?
+ What is NodePort and assuming you deploy 3 replicas of db application but one of the app is not running, how can you automatically detect it?
+ How much volume do mount your on db in prod when deploying?
+ Explain NAT Gateway.
+ Explain your CICD pipeline you support in your env.
+ State the components of Dockerfile and what is FROM in Dockerfile?
+ Suppose end-users are complaining of slow access of the application, what could be the problem and how do troubleshoot it?
+ How do you keep your sensitive data in Kubernetes?
+ Where do you keep your statefiles and how do you secure it?
+ What is EFS and what is your experience with it?
+ Describe how you create  a multi-tier architecture for your applications?
+ How do you get the logs of a crushed nodes?
