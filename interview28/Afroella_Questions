@@ -1,0 +1,23 @@
+DevOps Interview Questions.
+
+Can you tell me what the differences between those 2 commands are?
+
+In git, you can automate certain actions when the code merge or happens or when there is a push to origin. There are 3 types of triggers or hook. Do you k now what those triggers are? That will allow you to execute scripts when code is merged?
+
+We often hear about CI/CD. When someone talks about Continuous Integration, what does that mean to you and how do you define the term to people?
+
+In DevOps, there is a concept called shift left to reduce failures. Do you know what that concept means?
+
+In DevOps and Deployment practices, there is a practice called Blue Green deployment. Do you know what that is and can you explain that to me?
+
+Have you spent anytime building CI/CD pipelines and if so, what is the most complex one you have built?
+
+You mentioned in your resume, your ability to ah, sorry, let me check it out here.
+Scripting or programming skills, have you done any work with Java, Python, Bash shell scripting or Pearl, any type of scripting language or light programming? 
+
+Tell me about a time you had to write a script, you had a problem, you needed to find a solution, you wrote a script to solve the problem? What was that situation and the script you wrote?
+
+I think you mentioned here also, you’ve done some work with, let me double check on your resume and make sure I’m not mistaking anything.
+Have you done any work with monitoring tools like Grafana, Prometheus, Elastic Search, New Relic, Data Dog, anything working with tools and dashboard to help build monitoring solutions?
+
+Can you tell me a little bit of the work you did with that?
