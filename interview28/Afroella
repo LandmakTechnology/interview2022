@@ -12,7 +12,8 @@ We often hear about CI/CD. When someone talks about Continuous Integration, what
 
 In DevOps, there is a concept called shift left to reduce failures. Do you know what that concept means?
 
-In DevOps and Deployment practices, there is a practice called Blue Green deployment. Do you know what that is and can you explain that to me?
+In DevOps and Deployment practices, there is a practice called Blue Green deployment. 
+Do you know what that is and can you explain that to me?
 
 Have you spent anytime building CI/CD pipelines and if so, what is the most complex one you have built?
 
