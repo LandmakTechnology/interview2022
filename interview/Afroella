@@ -21,6 +21,7 @@ I think you mentioned here also, you’ve done some work with, let me double che
 Have you done any work with monitoring tools like Grafana, Prometheus, Elastic Search, New Relic, Data Dog, anything working with tools and dashboard to help build monitoring solutions?
 
 Can you tell me a little bit of the work you did with that?
-
-
-
+Tell me the github workflows and events?
+How have you used github in your environment?
+How do tou manage secrets in github?
+What are your KPI meterics
