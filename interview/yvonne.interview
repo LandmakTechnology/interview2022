@@ -24,7 +24,7 @@ Tell us about your programming background
 2.  How have you used paragination in Boto 3 to specifically get info from Amazon
 3.  How will call a terraform module from a main function
 4.  How do you link a module EC2 instance to the main function
-5.  Tell me about mariabd and mongodb what info do they store and what are the difference
+5.  Tell me about mariadb and mongodb what info do they store and what are the difference
 6.  What is your experience with Lambda
 7.  How do you call a module in Terraform
 8.  If connection keeps timing out, where do you check for the issue
