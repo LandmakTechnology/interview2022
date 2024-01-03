@@ -1,0 +1,242 @@
+Watch the video below and create your resume before our next bootcamp session on Tuesday Dec 19, 2023
+
+Tesla = you are being interviewed as a:
+    Sr. DevOps Engineer/DevOps Lead / DevSecOps / 
+    Infrastructure/Platform / systems / Cloud Engineer  
+expected Results: 
+  Excellent = 9/10 / 
+  very good=8/10 / 
+  good=7/10 / 
+  fair=6/10 / 
+  poor=5/10  
+
+    James   Fadipe  Andre   zino  Ibe  FAT   benchmark  
+Q1:   8      7.5     7.5     8     7        9.5      
+Q2:                          7     6.5
+Q3: 
+Q4:
+Q5:
+Q6/7/8/9/0  
+
+    BUEA TO BDA Wednesday Night 
+    BDA TO BUEA SAT NIGHT      
+    DAYS IN BDA - THURSDAY/FRIDAY/SATURDAY 
+
+1. Tell me about yourself = 3mins 
+   who are you as regards this position 
+   How do you fit in the picture 
+
+2. Describe the project you are currently managing = 3mins  
+   a. AMAZON eks custer using terraform/console/CLI  
+       -  other AWS services/resources  
+       -  VPC and its components
+       -  EC2 instances / Serverless Farget / ebs / efs / RDS/S3 
+       -  asg / LT / LC / ELB / 
+       -  IAM   
+       -  terraform init/validate/fmt/plan/apply/destroy/import
+                    output/kubeconfig   
+                    terraformstate.tf  
+
+   b. I provision and manage resources using the console & CLI   
+      & most importantly IaC with terraform/
+      - I write and modify terraform modules/scripts 
+      - i make use modules & variables to create reusable codes
+      - I also manage the terraform workflow in my environment  
+        terraform init/validate/fmt/plan/apply/destroy/import/refresh   
+      - with same terraform script i provision resources in dev/test/prod
+
+  demovpc: 10.0.0.0/16   -- IaC  
+    sn1:   10.0.0.0/24   -- IaC
+    sn2:   10.0.1.0/24   -- IaC 
+    sn3:   10.0.2.0/24   -- created from the console  
+    demoServer  = t2.micro  - -- IaC  
+    demoServer is changed from t2.micro to t2.xlarge - -- console  
+    terraform refresh  
+  verify: cat terraformstate / terraform show  / console  
+ 
+ c. migrating/importing fully to IaC with terraform  
+
+ d.- containerisation of applications using docker   
+      - I'm task to install docker and kubernetes in ubuntu servers 
+      - I containerised applications by:
+         - writing and modifying dockerfiles using best practices
+         - use ONLY Official images for base images   
+         - Reduce the number of RUN keyword to create light weight images 
+           because it add layers to your image and the final image size. 
+         - use executable form over shell form for CMD,ENTRYPOINT
+           & RUN Instructions for the application process to run as parent 
+         - Use alpine images as much as possible   
+         - scan images before use  
+         - .dockerignore file. 
+      - creating and sharing images in registry - dockerhub/nexus
+
+  e: orchestrating/managing containerised applications using kubernetes
+     - container mgt using kubernetes 
+     - writing and modifying kubernetes manifest files  
+     - managing the kubernetes Infrastructure/architecture
+        controlPlane workernodes  
+     - Setting-up a multi-nodes self Managed k8s using kubeadm, kops
+       Setting-up a multi-nodes  Managed k8s using eks
+     - application mgt:
+        1. deploying stateless applications using controllerMgers
+        deployment, RS, CM, Secrets /      
+        2. deploying stateful applications using controllerMgers
+           statefulsets, RS, CM, Secrets, PV, PVC, SC, /  
+        3. deploying monitoring applications like Prometheus/Grafana, EFK
+           DS, RS, deployments,CM, Secrets, PV, PVC, SC, / 
+        4. using helm package to deploy+mgt applications     
+     -  5. exposing applications to endUsers using serviceDiscovery
+           ClusterIP, NodePort, LB, ExternalName , ingress  / 
+           NetworkPolicy
+  f. Troubleshooting kubernetes related problems
+     - Node = failed nodes /CPU/mem/ OOM Killed / 
+     - pod  = pods pending / slow starting pod / wrong image/imageTag
+     -        short lifecycle / not a controllerMger
+     - manifest problem:
+        POD labels not matching controllerMgers selectors  
+        POD labels not matching service selectors
+           - writing jenkins pipelines scripts for ci/cd automation  
+        syntax issues   
+
+   - managing and granting access into aws services  
+   - deploying aws services using terraform   
+   - migrating from monolithic to microservices architecture/design  
+   - Setting up a kubernetes cluster using KOPS
+       walk-in through your KOPS kubernetes cluster setup. 
+     1. kops is a software that permit us to deploy a production ready kubernetes cluster
+        in aws and other cloud platforms.
+
+          kops create cluster --$NAME
+             create a VPC with all components  
+             CREATES ASGs for workernodes and masterNodes   
+             create ELB for the apiServer 
+             create launch templates for workernodes and masterNodes     
+             create workernodes and masterNodes 
+             it creates dynamic storage classes  
+             uses S3 as a kopsStateStore      
+
+        IAM = IAM user/roles/groups/policy  
+
+   - managing artifacts using nexus  
+       walk-in through your artifacts mgt with nexus  
+   - jar/war/ear, npm, dockerIamages
+
+   - writing and modifying ansible playbooks & roles for 
+     fileMGT/userMGT/packageMGT/deploymentMGT/securityMGT
+   - writing and modifying dockerfile, docker-compose files
+     creating and sharing docker images using best pactices  
+   - writing and modifying Jenkinsfiles and Jenkins shares libraries
+   - deploying APM tools like NeWRelic, Prometheus/Grafana using helm
+   - preparing detail documentations 
+   - morning devotion   
+
+  3. how are java web applications deployed?                     :
+        1. tomcat or JBoss server   
+        2. as docker containers using docker   
+        3. as containers using kubernetes   
+
+
+3a. what problems have you faced in kubernetes and how did you resolve them
+3b. explain a problem you faced in your project and the steps you took to resolve it.  
+
+
+Graduation USA  
+=================
+https://www.amazon.com/SAMDEEMI-Unisex-Graduation-Tassel-Bachelor/dp/B092VC7FYH/ref=sr_1_10?crid=R6ZRVOQ7A6PR&keywords=Graduation%2Bgown&qid=1703641781&sprefix=graduation%2Bgown%2Caps%2C282&sr=8-10&th=1&psc=1
+
+
+https://www.amazon.com/dp/B07DKCDJF7/ref=twister_B094HGGSQM?_encoding=UTF8&th=1&psc=1
+
+
+Graduation Canada  
+=================
+https://www.amazon.ca/Graduationmall-Graduation-Tassel-School-Bachelor/dp/B00R9EZSVG/ref=sr_1_9?crid=TDIA3NR874YY&keywords=graduation%2Bgown&qid=1703641530&sprefix=graduation%2Bg%2Caps%2C352&sr=8-9&th=1&psc=1
+
+
+https://www.amazon.ca/OSBO-GradSeason-Unisex-Graduation-Tassel/dp/B07DKBHHKD/ref=sr_1_7?crid=TDIA3NR874YY&keywords=graduation%2Bgown&qid=1703641530&sprefix=graduation%2Bg%2Caps%2C352&sr=8-7&th=1&psc=1
+
+4. walk-in through your jenkins pipelines
+
+5. explain the kubernetes architecture  
+
+6. explain the terraform workflow
+
+7. walk us through how you implement a fault tolerance kubernetes deploy
+
+8. explain your experience and problems faced and fixed in:
+    1. multi-tier application deployment 
+    2. open source technologies
+    3. Linux systems / Maven / sonarqube / kubernetes / ansible / terraform / aws /  
+
+
+Explain the process of what happens when an end user types google.com ?
+How do you migrate from on prem to AWS?
+
+Lower env to prod env  
+
+tools = { Linux, Git, GitHub, maven, sonarqube, tomcat, k8s, docker, aws,
+         ansible, terraform }
+
+100/hr = 75-80  :
+-------------------
+
+
+150,000
+
+https://287784533479.signin.aws.amazon.com/console
+IAM user login:   Legah  
+account number = 287784533479
+IAM userNAME   = legah  
+userPassword   = ***********
+
+IAM root login:   JAMES  
+  root-email   = 
+  rootPassword = 
+  we provide ONLY Least priviledges to users [  ]   
+
+Ticket001:
+    AMAZONEC2FULLACCESS 
+    AMAZONEC2readOnlyACCESS 
+ 1. Hello Legah check running instances in our aws account in us-east-2 region
+    ---AMAZONEC2readOnlyACCESS
+    ---AMAZONEC2FULLACCESS
+
+ 2.  Hello Legah check create 2 instances in our aws account in us-east-2 region
+     AMAZONEC2FULLACCESS
+
+====Lawal Olubunmi Victoria CA 108K
+
+Docker & Kubernetes  
+Jenkins CI/CD automation 
+Terraform  
+AWS  
+Ansible  
+
+   Record your interview and forward via telegram  
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
