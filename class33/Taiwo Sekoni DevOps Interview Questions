@@ -1,0 +1,15 @@
+Walk me through your EKS setup and how you've used it?
+How would you troubleshoot a node that is not joining the node group after EKS setup?
+What is the difference between using helm chart and manifest?
+How would you go about troubleshooting deployment failing after deploying with helm chart?
+What is 137 error code in kubernetes?
+How would you go about giving a user read or write access using kubeconfig file?
+Have you ever back up or export etcd file?
+Tell me your experince in terraform?
+Do you run your teeraform through your pipeline or run it manually?
+How do you store your state file?
+Do you use only terraform or use other tools to provision your resources?
+I see you have python and scripting on your resume. Tell me about a time you write a script a script to solve a problem and did you present it to your manager?
+Do you use cron jobs?
+Tell me about your experience in CI?
+What are micro services application?
